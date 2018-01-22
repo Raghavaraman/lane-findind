@@ -29,3 +29,8 @@ Future Improvements
 ---
 
 When applied on the video. The lines seem to shake a bit. Some sort of stablisation algorithm can be used to make sure the line are much more stable and less shaky.
+
+Contact:
+---
+Raghava.s
+raghava.s@infosys.com
